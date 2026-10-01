@@ -1,0 +1,31 @@
+package com.data.dataWarehouse.controller;
+
+import com.data.dataWarehouse.dto.ProductosDto;
+import com.data.dataWarehouse.service.ProductosService;
+import com.data.dataWarehouse.entity.Productos;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import java.util.List;
+
+@RestController
+@RequestMapping(path = "/api")
+public class ProductoController {
+
+    private final ProductosService productosService;
+
+    public ProductoController(ProductosService productosService){
+        this.productosService = productosService;
+    }
+    @GetMapping(path = "/productos")
+    public List<ProductosDto> findAll(){
+        return this.productosService.findAll();
+    }
+    @GetMapping(path = "/productos/{id}")
+    public ProductosDto findById(@PathVariable Long id){
+        return this.productosService.findById(id);
+    }
+
+}

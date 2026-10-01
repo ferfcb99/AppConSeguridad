@@ -1,0 +1,72 @@
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [11] : Error en el email - Validar formato de correo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [12] : Error en el telefono se quedara null
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [14] : Error en el email - Validar formato de correo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [17] : Error en el email - Validar formato de correo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [18] : Error en el nombre - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [18] : Error en el telefono se quedara null
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [27] : Error en el email - Validar formato de correo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [33] : Error en el email - Validar formato de correo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [36] : Error en el telefono se quedara null
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [42] : Error en el email - Validar formato de correo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [43] : Error en el email - Validar formato de correo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [49] : Error en el email - Validar formato de correo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [56] : Error en el email - Validar formato de correo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [58] : Error en el email - Validar formato de correo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [59] : Error en el email - Validar formato de correo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [60] : Error en el telefono se quedara null
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [61] : Error en el telefono se quedara null
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [62] : Error en el email - Validar formato de correo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [75] : Error en el email - Validar formato de correo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [78] : Error en el email - Validar formato de correo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [83] : Error en el email - Validar formato de correo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [86] : Error en el email - Validar formato de correo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [88] : Error en el telefono se quedara null
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [90] : Error en el email - Validar formato de correo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [95] : Error en el email - Validar formato de correo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [96] : Error en el email - Validar formato de correo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Cliente [97] : Error en el email - Validar formato de correo
+2026-10-01 17:17:07 [main] INFO  consumo.Main - En el analisis de clientes se tuvieron 26 errores y 74 correcto
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Empleado [2] : Error en el apellido - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Empleado [8] : Error en el nombre - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Empleado [9] : Error en el apellido - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Empleado [18] : Error en el nombre - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Empleado [22] : Error en el nombre - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Empleado [24] : Error en el nombre - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Empleado [34] : Error en el nombre - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Empleado [34] : Error en el puesto - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Empleado [36] : Error en el apellido - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Empleado [46] : Error en el puesto - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Empleado [47] : Error en el puesto - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Empleado [49] : Error en el nombre - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Empleado [59] : Error en el nombre - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Empleado [59] : Error en el apellido - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Empleado [67] : Error en el apellido - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Empleado [73] : Error en el nombre - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Empleado [78] : Error en el nombre - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Empleado [78] : Error en el apellido - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Empleado [89] : Error en el apellido - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Empleado [90] : Error en el apellido - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Empleado [94] : Error en el nombre - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Empleado [97] : Error en el puesto - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] INFO  consumo.Main - En el analisis de empleados se tuvieron 19 y 81 correcto
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Producto [1] : Error en el stock - No puede ser null ni negativo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Producto [7] : Error en el precio - No puede ser null y debe ser mayor que 0
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Producto [9] : Error en el precio - No puede ser null y debe ser mayor que 0
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Producto [10] : Error en el stock - No puede ser null ni negativo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Producto [16] : Error en el precio - No puede ser null y debe ser mayor que 0
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Producto [17] : Error en el stock - No puede ser null ni negativo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Producto [25] : Error en el stock - No puede ser null ni negativo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Producto [33] : Error en el precio - No puede ser null y debe ser mayor que 0
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Producto [34] : Error en el precio - No puede ser null y debe ser mayor que 0
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Producto [39] : Error en el precio - No puede ser null y debe ser mayor que 0
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Producto [44] : Error en el stock - No puede ser null ni negativo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Producto [59] : Error en el stock - No puede ser null ni negativo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Producto [61] : Error en el precio - No puede ser null y debe ser mayor que 0
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Producto [62] : Error en el precio - No puede ser null y debe ser mayor que 0
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Producto [70] : Error en el precio - No puede ser null y debe ser mayor que 0
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Producto [71] : Error en el precio - No puede ser null y debe ser mayor que 0
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Producto [73] : Error en el stock - No puede ser null ni negativo
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Producto [93] : Error en el stock - No puede ser null ni negativo
+2026-10-01 17:17:07 [main] INFO  consumo.Main - En el analisis de productos se tuvieron 91 y 9 correcto
+2026-10-01 17:17:07 [main] ERROR consumo.Main - Sucursales [12] : Error en el nombre - No puede ser null o vacío.
+2026-10-01 17:17:07 [main] INFO  consumo.Main - En el analisis de empleados se tuvieron 1 y 99 correcto
